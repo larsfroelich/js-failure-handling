@@ -1,0 +1,17 @@
+{
+  "name": "fp-ts-using-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larsfroelich/js-failure-handling.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
+}
